@@ -1,9 +1,10 @@
 <html>
 <body>
-	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED APPL:ICATION USING JENKINS</h1>
-	<h1>ADDED DATA AGAIN</h1>
-	<h2>added data for checking webhooks</h2>
-<h2>hiii I LOVE YOU Vyshu</h2>
+	<h1 style="color: violet; font-size: 40px;" align="center">RIP PATHIPATI SUBRAMANYAM NAIDU SIR</h1>
+	<h1 style="color: violet; font-size: 40px;" align="center">WE ALL MISS YOU</h1>
+	<h2 style="color: violet; font-size: 40px;" align="center">EXPIRY 11.08.2023</h2>
+<h2 style="color: violet; font-size: 40px;" align="center">CREMATION ON SUNDAY 13.08.2023 AT MEKAVARIPALLI</h2>
+        <img src=”(C:\Users\user\Desktop\Pathipati Family Documents\PSN Passport Size photo.jpg)”>
 	
 	
 	
